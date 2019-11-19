@@ -29,6 +29,8 @@ This is an amazing paragraph of text :D
 - 2 root locations (~ = root path that is always set to home, / =  root path to user root)
 
 
+### So to summarise, I have learnt to push git from my laptop to github, by utlising commands:
+####  - git init, git add <file name>, git add ., git commit -m <message>, git remote add origin git@github.com:abi-oluwade/example.git, git push -u origin master
 
 
 
