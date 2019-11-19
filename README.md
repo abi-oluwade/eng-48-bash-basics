@@ -29,9 +29,6 @@ This is an amazing paragraph of text :D
 - 2 root locations (~ = root path that is always set to home, / =  root path to user root)
 
 
-### So to summarise, I have learnt to push git from my laptop to github, by utlising commands:
-####  - git init, git add <file name>, git add ., git commit -m <message>, git remote add origin git@github.com:abi-oluwade/example.git, git push -u origin master
-
 
 
 ## Git
@@ -52,6 +49,12 @@ This is an amazing paragraph of text :D
 -make md files for time & task management
 -do an interview
 -look at astha
-###
-1.add remote (once per project)
-2.(git push <remote location><branch local>)
+### -1.add remote (once per project)
+### -2.(git push <remote location><branch local>)
+
+### So to summarise, I have learnt to push git from my laptop to github, by utlising commands:
+####  - git init, git add <file name>, git add ., git commit -m <message>, git remote add origin git@github.com:abi-oluwade/examplerepo.git, git push -u origin master
+
+#### these commands with be continuously utilised, so if ypur forget how to do commits and set up the remote , refer to the above commands, typcially in that order as well.
+
+#### clarify however why git add <file name> and git add . are different.
