@@ -56,7 +56,7 @@ This is an amazing paragraph of text :D
 
 ### So to summarise, I have learnt to push git from my laptop to github, by utlising commands:
 - git init
-- git add <file name>
+- git add (file name)
 - git add .
 - git commit -m <message>
 - git remote add origin git@github.com:abi-oluwade/examplerepo.git
@@ -64,5 +64,5 @@ This is an amazing paragraph of text :D
 
 #### These commands with be continuously utilised, so if you forget how to do commits and set up the remote , refer to the above commands, typically in that order as well.
 
-#### Clarify however why git add <file name> and git add . are different.
-- (Answer) 'git add .' tracks everything above and the whole folder, 'git add <filename>' tracks just that specific file.
+#### Clarify however why git add (file name) and git add . are different.
+- (Answer) 'git add .' tracks everything above and the whole folder, 'git add (filename)' tracks just that specific file.
